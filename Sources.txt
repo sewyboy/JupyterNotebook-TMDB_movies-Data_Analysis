@@ -1,0 +1,7 @@
+sources used for the completion of this project:
+https://drive.google.com/file/d/1r-mceY7Pz07bRGejSyMbxmvbqC7abuhx/view
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.stack.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.join.html
+https://www.geeksforgeeks.org/python-pandas-split-strings-into-two-list-columns-using-str-split/
+https://stackoverflow.com/questions/12444716/how-do-i-set-the-figure-title-and-axes-labels-font-size-in-matplotlib
+https://stackoverflow.com/questions/58352904/how-to-change-the-dimensions-of-a-histogram-depicted-by-plt-hist-as-figsize-is
